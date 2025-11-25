@@ -1,0 +1,460 @@
+{
+  "toxic_ingredients": [
+    {
+      "ingredient_name": "Parabens (Methylparaben, Ethylparaben, Propylparaben, Butylparaben)",
+      "inci_name": "Parabens",
+      "risk_level": "High",
+      "health_concerns": [
+        "Endocrine disruption",
+        "Hormone imbalance",
+        "Reproductive toxicity",
+        "Breast cancer risk"
+      ]
+    },
+    {
+      "ingredient_name": "Octinoxate (Ethylhexyl Methoxycinnamate)",
+      "inci_name": "Octinoxate",
+      "risk_level": "High",
+      "health_concerns": [
+        "Endocrine disruption",
+        "Environmental damage",
+        "Allergic reactions"
+      ]
+    },
+    {
+      "ingredient_name": "Methylisothiazolinone (MIT)",
+      "inci_name": "Methylisothiazolinone",
+      "risk_level": "High",
+      "health_concerns": [
+        "Neurotoxicity",
+        "Skin sensitization",
+        "Allergic reactions"
+      ]
+    },
+    {
+      "ingredient_name": "Aluminum Chlorohydrate",
+      "inci_name": "Aluminum Chlorohydrate",
+      "risk_level": "High",
+      "description": "A common antiperspirant agent. Concerns exist regarding its link to neurotoxicity and potential role in breast cancer, although evidence is debated.",
+      "health_concerns": [
+        "Neurotoxicity",
+        "Breast cancer link",
+        "Skin irritation"
+      ]
+    },
+    {
+      "ingredient_name": "Methylchloroisothiazolinone (CMIT)",
+      "inci_name": "Methylchloroisothiazolinone",
+      "risk_level": "High",
+      "health_concerns": [
+        "Skin sensitization",
+        "Allergic reactions"
+      ]
+    },
+    {
+      "ingredient_name": "Phenol",
+      "inci_name": "Phenol",
+      "risk_level": "High",
+      "health_concerns": [
+        "Corrosive",
+        "Systemic toxicity",
+        "Organ damage"
+      ]
+    },
+    {
+      "ingredient_name": "Retinyl Palmitate",
+      "inci_name": "Retinyl Palmitate",
+      "risk_level": "High",
+      "description": "A form of Vitamin A. When exposed to sunlight, it can break down and produce free radicals that damage DNA and increase photosensitivity, potentially speeding up the development of skin tumors.",
+      "health_concerns": [
+        "Photocarcinogenic potential",
+        "Skin irritation"
+      ]
+    },
+    {
+      "ingredient_name": "Talc (with asbestos risk)",
+      "inci_name": "Talc",
+      "risk_level": "High",
+      "description": "A mineral used in powders and makeup. If contaminated with asbestos (a known carcinogen), it poses a significant health risk, particularly via inhalation.",
+      "health_concerns": [
+        "Carcinogenic (if contaminated)",
+        "Respiratory issues"
+      ]
+    },
+    {
+      "ingredient_name": "DEA (Diethanolamine)",
+      "inci_name": "Diethanolamine",
+      "risk_level": "High",
+      "health_concerns": [
+        "Carcinogenic potential",
+        "Organ toxicity"
+      ]
+    },
+    {
+      "ingredient_name": "Benzophenone-1",
+      "inci_name": "Benzophenone-1",
+      "risk_level": "High",
+      "health_concerns": [
+        "Endocrine disruption",
+        "Allergic reactions"
+      ]
+    },
+    {
+      "ingredient_name": "BHT (Butylated Hydroxytoluene)",
+      "inci_name": "BHT",
+      "risk_level": "High",
+      "health_concerns": [
+        "Endocrine disruption",
+        "Organ toxicity"
+      ]
+    },
+    {
+      "ingredient_name": "Cyclopentasiloxane",
+      "inci_name": "Cyclopentasiloxane",
+      "risk_level": "High",
+      "health_concerns": [
+        "Endocrine disruption",
+        "Bioaccumulation"
+      ]
+    },
+    {
+      "ingredient_name": "Benzisothiazolinone",
+      "inci_name": "Benzisothiazolinone",
+      "risk_level": "High",
+      "health_concerns": [
+        "Skin sensitization",
+        "Allergic reactions"
+      ]
+    },
+    {
+      "ingredient_name": "Fragrance Mix II",
+      "inci_name": "Fragrance Mix II",
+      "risk_level": "High",
+      "health_concerns": [
+        "Allergic reactions",
+        "Respiratory issues",
+        "Skin sensitization"
+      ]
+    },
+    {
+      "ingredient_name": "Formaldehyde and Formaldehyde-releasing preservatives",
+      "inci_name": "Formaldehyde, DMDM Hydantoin, Diazolidinyl Urea, Imidazolidinyl Urea, Quaternium-15, Bronopol",
+      "risk_level": "High",
+      "health_concerns": [
+        "Carcinogenic",
+        "Skin sensitization",
+        "Allergic reactions"
+      ]
+    },
+    {
+      "ingredient_name": "Phthalates (DBP, DEHP, DEP)",
+      "inci_name": "Phthalates",
+      "risk_level": "High",
+      "health_concerns": [
+        "Endocrine disruption",
+        "Reproductive system damage",
+        "Developmental toxicity"
+      ]
+    },
+    {
+      "ingredient_name": "Triclosan",
+      "inci_name": "Triclosan",
+      "risk_level": "High",
+      "health_concerns": [
+        "Endocrine disruption",
+        "Antibiotic resistance",
+        "Thyroid dysfunction"
+      ]
+    },
+    {
+      "ingredient_name": "Coal Tar Dyes (p-Phenylenediamine, CI 26100)",
+      "inci_name": "Coal Tar",
+      "risk_level": "High",
+      "health_concerns": [
+        "Carcinogenic",
+        "Skin sensitization",
+        "Organ toxicity"
+      ]
+    },
+    {
+      "ingredient_name": "Lead and Heavy Metals (Lead, Mercury, Cadmium, Arsenic)",
+      "inci_name": "Heavy Metals",
+      "risk_level": "High",
+      "health_concerns": [
+        "Neurotoxicity",
+        "Developmental delays",
+        "Organ damage"
+      ]
+    },
+    {
+      "ingredient_name": "Oxybenzone (Benzophenone-3)",
+      "inci_name": "Oxybenzone",
+      "risk_level": "High",
+      "health_concerns": [
+        "Endocrine disruption",
+        "Allergic reactions",
+        "Environmental damage"
+      ]
+    },
+    {
+      "ingredient_name": "Hydroquinone",
+      "inci_name": "Hydroquinone",
+      "risk_level": "High",
+      "health_concerns": [
+        "Ochronosis (skin darkening)",
+        "Carcinogenic potential",
+        "Organ toxicity"
+      ]
+    },
+    {
+      "ingredient_name": "Resorcinol",
+      "inci_name": "Resorcinol",
+      "risk_level": "High",
+      "health_concerns": [
+        "Endocrine disruption",
+        "Skin sensitization",
+        "Organ toxicity"
+      ]
+    },
+    {
+      "ingredient_name": "Toluene",
+      "inci_name": "Toluene",
+      "risk_level": "High",
+      "health_concerns": [
+        "Neurotoxicity",
+        "Respiratory issues",
+        "Developmental damage"
+      ]
+    },
+    {
+      "ingredient_name": "Butylated Hydroxyanisole (BHA)",
+      "inci_name": "BHA",
+      "risk_level": "High",
+      "health_concerns": [
+        "Endocrine disruption",
+        "Possible carcinogen",
+        "Organ toxicity"
+      ]
+    },
+    {
+      "ingredient_name": "Sodium Lauryl Sulfate (SLS)",
+      "risk_level": "Moderate",
+      "description": "A strong surfactant that can strip natural oils from the skin, leading to dryness and irritation. It is a known skin irritant.",
+      "health_concerns": [
+        "Skin irritation",
+        "Strip natural oils"
+      ]
+    },
+    {
+      "ingredient_name": "Sodium Laureth Sulfate (SLES)",
+      "risk_level": "Moderate",
+      "description": "A milder surfactant than SLS, but can still be irritating. It can be contaminated with 1,4-dioxane, a potential carcinogen.",
+      "health_concerns": [
+        "Skin irritation",
+        "Possible 1,4-dioxane contamination"
+      ]
+    },
+    {
+      "ingredient_name": "Mineral Oil/Petrolatum",
+      "risk_level": "Moderate",
+      "description": "A petroleum by-product that can be contaminated with polycyclic aromatic hydrocarbons (PAHs), which are carcinogenic. It is also comedogenic and can clog pores.",
+      "health_concerns": [
+        "Comedogenic (clogs pores)",
+        "Possible PAH contamination"
+      ]
+    },
+    {
+      "ingredient_name": "Polyethylene Glycols (PEGs)",
+      "inci_name": "PEG compounds",
+      "risk_level": "Moderate",
+      "description": "Petroleum-based compounds that can be contaminated with 1,4-dioxane and ethylene oxide, both known carcinogens. They also enhance the penetration of other ingredients through the skin.",
+      "health_concerns": [
+        "Possible 1,4-dioxane contamination",
+        "Skin penetration enhancement"
+      ]
+    },
+    {
+      "ingredient_name": "Tetramethyl Acetyloctahydronaphthalenes",
+      "risk_level": "High",
+      "description": "A synthetic musk fragrance ingredient (e.g., Iso E Super). There are concerns about skin sensitization, allergic reactions, and potential environmental persistence and bioaccumulation."
+    }
+  ],
+  "synonyms": {
+    "parabens": [
+      "methylparaben",
+      "ethylparaben",
+      "propylparaben",
+      "butylparaben",
+      "isobutylparaben",
+      "benzylparaben",
+      "paraben"
+    ],
+    "methylparaben": [
+      "methyl paraben",
+      "nipagin m",
+      "e218"
+    ],
+    "propylparaben": [
+      "propyl paraben",
+      "nipasol",
+      "e216"
+    ],
+    "octinoxate": [
+      "ethylhexyl methoxycinnamate",
+      "octyl methoxycinnamate",
+      "omc"
+    ],
+    "methylisothiazolinone": [
+      "mi",
+      "mit"
+    ],
+    "methylchloroisothiazolinone": [
+      "mci",
+      "kathon cg"
+    ],
+    "aluminum chlorohydrate": [
+      "aluminum salts",
+      "aluminium chlorohydrate",
+      "alcl"
+    ],
+    "phenol": [
+      "carbolic acid",
+      "phenyl hydroxide"
+    ],
+    "retinyl palmitate": [
+      "vitamin a palmitate",
+      "retinol palmitate"
+    ],
+    "talc": [
+      "hydrated magnesium silicate",
+      "magnesium silicate"
+    ],
+    "diethanolamine": [
+      "dea",
+      "n,n-diethanolamine"
+    ],
+    "benzophenone-1": [
+      "bp-1"
+    ],
+    "cyclopentasiloxane": [
+      "d5",
+      "decamethylcyclopentasiloxane"
+    ],
+    "benzisothiazolinone": [
+      "bit"
+    ],
+    "formaldehyde": [
+      "formalin",
+      "methanal",
+      "methyl aldehyde"
+    ],
+    "dmdm hydantoin": [
+      "dimethyl dimethyl hydantoin"
+    ],
+    "imidazolidinyl urea": [
+      "imidurea"
+    ],
+    "quaternium-15": [],
+    "bronopol": [],
+    "phthalates": [
+      "dibutyl phthalate",
+      "dbp",
+      "diethyl phthalate",
+      "dep",
+      "dimethyl phthalate",
+      "dmp",
+      "benzyl butyl phthalate",
+      "bbp"
+    ],
+    "dibutyl phthalate": [
+      "dbp",
+      "n-butyl phthalate"
+    ],
+    "fragrance": [
+      "parfum",
+      "aroma",
+      "perfume",
+      "scent",
+      "fragrance mix"
+    ],
+    "sodium lauryl sulfate": [
+      "sls",
+      "sodium dodecyl sulfate"
+    ],
+    "sodium laureth sulfate": [
+      "sles",
+      "sodium lauryl ether sulfate"
+    ],
+    "lead": [
+      "pb",
+      "plumbum"
+    ],
+    "mercury": [
+      "hg",
+      "hydrargyrum"
+    ],
+    "mineral oil/petrolatum": [
+      "paraffinum liquidum",
+      "petrolatum",
+      "mineral oil",
+      "white oil",
+      "petroleum jelly"
+    ],
+    "triclosan": [
+      "tcs"
+    ],
+    "oxybenzone": [
+      "benzophenone-3",
+      "bp-3"
+    ],
+    "hydroquinone": [
+      "hq",
+      "1,4-benzenediol"
+    ],
+    "resorcinol": [
+      "resorcin"
+    ],
+    "toluene": [
+      "methylbenzene"
+    ],
+    "bha": [
+      "butylated hydroxyanisole"
+    ],
+    "bht": [
+      "butylated hydroxytoluene"
+    ],
+    "aloe barbadensis leaf juice": [
+      "aloe vera"
+    ],
+    "ascorbic acid": [
+      "vitamin c"
+    ],
+    "tocopherol": [
+      "vitamin e"
+    ],
+    "butyrospermum parkii butter": [
+      "shea butter"
+    ],
+    "melaleuca alternifolia leaf oil": [
+      "tea tree oil"
+    ],
+    "hamamelis virginiana extract": [
+      "witch hazel"
+    ],
+    "sodium hyaluronate": [
+      "hyaluronic acid"
+    ],
+    "aqua": [
+      "water"
+    ],
+    "tocopheryl acetate": [
+      "vitamin e acetate"
+    ]
+  },
+  "metadata": {
+    "version": "1.1",
+    "description": "South Africa Cosmetic Ingredient Safety Database - High Risk",
+    "last_updated": "2024-05-23"
+  }
+}
+    

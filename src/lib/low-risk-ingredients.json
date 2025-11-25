@@ -1,0 +1,291 @@
+{
+  "ingredients": [
+    {
+      "name": "AQUA",
+      "risk_level": "Low",
+      "description": "Water, the most common cosmetic ingredient. Used as a solvent."
+    },
+    {
+      "name": "WATER",
+      "risk_level": "Low",
+      "description": "Water, the most common cosmetic ingredient. Used as a solvent."
+    },
+    {
+      "name": "GLYCERIN",
+      "risk_level": "Low",
+      "description": "A humectant that draws moisture into the skin. Generally considered very safe."
+    },
+    {
+      "name": "HYALURONIC ACID",
+      "risk_level": "Low",
+      "description": "A powerful humectant that hydrates the skin. Safe and effective."
+    },
+    {
+      "name": "NIACINAMIDE",
+      "risk_level": "Low",
+      "description": "A form of Vitamin B3 with multiple skin benefits. Well-tolerated and safe."
+    },
+    {
+      "name": "TOCOPHEROL",
+      "risk_level": "Low",
+      "description": "Vitamin E, an antioxidant that protects the skin from free radical damage."
+    },
+    {
+      "name": "BUTYROSPERMUM PARKII BUTTER",
+      "risk_level": "Low",
+      "description": "Shea Butter. A rich emollient that moisturizes and soothes the skin."
+    },
+    {
+      "name": "CETEARYL ALCOHOL",
+      "risk_level": "Low",
+      "description": "A fatty alcohol used as an emollient and thickener. Not to be confused with drying alcohols. Generally safe."
+    },
+    {
+      "name": "CAPRYLIC/CAPRIC TRIGLYCERIDE",
+      "risk_level": "Low",
+      "description": "An emollient derived from coconut oil and glycerin. Considered safe and non-sensitizing."
+    },
+    {
+      "name": "FRAGRANCE",
+      "risk_level": "Moderate",
+      "description": "A generic term for a mix of scent chemicals and ingredients that can include allergens, sensitizers, and potential hormone disruptors. Lack of transparency is a major concern."
+    },
+    {
+      "name": "PARFUM",
+      "risk_level": "Moderate",
+      "description": "Synonym for Fragrance. A complex mixture of scent chemicals which may contain allergens and irritants not listed on the label."
+    },
+    {
+      "name": "C14-22 ALCOHOLS",
+      "risk_level": "Low",
+      "description": "A mix of fatty alcohols. Generally low risk, but can be comedogenic for some skin types."
+    },
+    {
+      "name": "Cocamidopropyl Betaine",
+      "risk_level": "Moderate",
+      "description": "A surfactant that can cause irritation or allergic reactions in sensitive individuals."
+    },
+    {
+      "name": "Decyl Glucoside",
+      "risk_level": "Low",
+      "description": "A gentle, plant-derived surfactant ideal for sensitive skin."
+    },
+    {
+      "name": "Sodium Cocoyl Isethionate",
+      "risk_level": "Low",
+      "description": "A mild, coconut-derived surfactant used in sulfate-free cleansers."
+    },
+    {
+      "name": "Stearic Acid",
+      "risk_level": "Low",
+      "description": "A fatty acid used as a thickener and emulsifier. Generally safe."
+    },
+    {
+      "name": "Cetyl Alcohol",
+      "risk_level": "Low",
+      "description": "A non-drying fatty alcohol that functions as an emollient and emulsifier."
+    },
+    {
+      "name": "Propylene Glycol",
+      "risk_level": "Moderate",
+      "description": "A humectant and solvent that can irritate sensitive skin."
+    },
+    {
+      "name": "Polysorbate 20",
+      "risk_level": "Moderate",
+      "description": "An emulsifier that may be contaminated with 1,4-dioxane, a potential carcinogen."
+    },
+    {
+      "name": "Xanthan Gum",
+      "risk_level": "Low",
+      "description": "A natural thickener and stabilizer derived from sugar fermentation."
+    },
+    {
+      "name": "Carbomer",
+      "risk_level": "Low",
+      "description": "A synthetic polymer used to create smooth gel textures. Considered safe."
+    },
+    {
+      "name": "Phenoxyethanol",
+      "risk_level": "Moderate",
+      "description": "A common preservative that can cause allergic reactions and skin irritation in some individuals."
+    },
+    {
+      "name": "Potassium Sorbate",
+      "risk_level": "Low",
+      "description": "A mild preservative often used in natural and food-grade products."
+    },
+    {
+      "name": "Sodium Benzoate",
+      "risk_level": "Low",
+      "description": "A preservative used in both food and cosmetics. Generally safe, but can be a slight irritant."
+    },
+    {
+      "name": "Benzyl Alcohol",
+      "risk_level": "Moderate",
+      "description": "A preservative and solvent that can be an allergen for some people."
+    },
+    {
+      "name": "Tea Tree Oil",
+      "risk_level": "Moderate",
+      "description": "An essential oil with antimicrobial properties, but can be a skin irritant for some."
+    },
+    {
+      "name": "Panthenol",
+      "risk_level": "Low",
+      "description": "A form of Vitamin B5 that is moisturizing and soothing."
+    },
+    {
+      "name": "Aloe Vera",
+      "risk_level": "Low",
+      "description": "A plant extract known for its soothing and anti-inflammatory properties."
+    },
+    {
+      "name": "Vitamin C",
+      "risk_level": "Moderate",
+      "description": "An antioxidant that can brighten skin, but may cause irritation in high concentrations or in sensitive skin. Generally considered safe."
+    },
+    {
+      "name": "Ceramides",
+      "risk_level": "Low",
+      "description": "Skin-identical lipids that help restore the skin's barrier. Very safe and beneficial."
+    },
+    {
+      "name": "Zinc Oxide",
+      "risk_level": "Low",
+      "description": "A mineral sunscreen filter that provides broad-spectrum UV protection. Considered very safe."
+    },
+    {
+      "name": "Titanium Dioxide",
+      "risk_level": "Low",
+      "description": "A mineral sunscreen filter and pigment. Safe for use on skin, especially in non-nano form."
+    },
+    {
+      "name": "Squalane",
+      "risk_level": "Low",
+      "description": "A lightweight, non-comedogenic emollient that mimics skin's natural oils."
+    },
+    {
+      "name": "Dimethicone",
+      "risk_level": "Low",
+      "description": "A silicone that provides a smooth texture and forms a protective barrier. Considered safe for cosmetic use."
+    },
+    {
+      "name": "Sodium PCA",
+      "risk_level": "Low",
+      "description": "A natural humectant that helps skin attract and retain moisture."
+    },
+    {
+      "name": "Allantoin",
+      "risk_level": "Low",
+      "description": "A soothing and healing ingredient that helps calm irritation."
+    },
+    {
+      "name": "Witch Hazel",
+      "risk_level": "Moderate",
+      "description": "A natural astringent that can be drying and irritating for some skin types, especially if it contains alcohol."
+    },
+    {
+      "name": "Lactic Acid",
+      "risk_level": "Moderate",
+      "description": "An alpha-hydroxy acid (AHA) for exfoliation. Can cause irritation and sun sensitivity if overused."
+    },
+    {
+      "name": "Kaolin",
+      "risk_level": "Low",
+      "description": "A gentle clay used in masks to absorb excess oil. Generally very safe."
+    },
+    {
+      "name": "Salicylic Acid",
+      "risk_level": "Moderate",
+      "description": "A beta-hydroxy acid (BHA) effective for acne, but can be drying and irritating."
+    },
+    {
+      "name": "Isopropyl Alcohol",
+      "risk_level": "Moderate",
+      "description": "A solvent that can be very drying and irritating to the skin, stripping its natural barrier."
+    },
+    {
+      "name": "Tetrasodium EDTA",
+      "risk_level": "Low",
+      "description": "A chelating agent that prevents minerals from binding together. Generally considered safe in cosmetics but can enhance the penetration of other ingredients."
+    },
+    {
+      "name": "PEG-100 Stearate",
+      "risk_level": "Moderate",
+      "description": "A polyethylene glycol ether of stearic acid. Concerns are related to potential contamination with 1,4-dioxane."
+    },
+    {
+      "name": "Chlorphenesin",
+      "risk_level": "Moderate",
+      "description": "A preservative that can cause skin irritation and contact dermatitis in some individuals."
+    },
+    {
+      "name": "Silica",
+      "risk_level": "Low",
+      "description": "A mineral used as an absorbent, anti-caking agent, and abrasive. Safe in its amorphous form in cosmetics."
+    },
+    {
+      "name": "Ethylhexylglycerin",
+      "risk_level": "Low",
+      "description": "A preservative and skin-conditioning agent. Can be a skin irritant for some."
+    },
+    {
+      "name": "Prunus Amygdalus Dulcis Oil",
+      "risk_level": "Low",
+      "description": "Sweet Almond Oil. A non-volatile, non-fragrant oil used as an emollient."
+    },
+    {
+      "name": "Hydrogenated Styrene/Butadiene Copolymer",
+      "risk_level": "Low",
+      "description": "A synthetic polymer used as a film-forming agent. Generally considered safe for use in cosmetics."
+    },
+    {
+      "name": "Tocopheryl Acetate",
+      "risk_level": "Low",
+      "description": "A form of Vitamin E, a natural skin-conditioning agent and antioxidant."
+    },
+    {
+      "name": "Helianthus Annuus Seed Oil",
+      "risk_level": "Low",
+      "description": "Sunflower Seed Oil. Used as an emollient and rich in nutrients like vitamin E."
+    },
+    {
+      "name": "Citric Acid",
+      "risk_level": "Low",
+      "description": "An alpha-hydroxy acid used to adjust the pH of products. Can have exfoliating properties in higher concentrations but is generally safe at low levels."
+    },
+    {
+      "name": "Alpha-Isomethyl Ionone",
+      "risk_level": "Moderate",
+      "description": "A synthetic fragrance ingredient. It is a known skin allergen and its use is restricted in the EU."
+    },
+    {
+      "name": "Farnesol",
+      "risk_level": "Moderate",
+      "description": "A fragrance ingredient that occurs naturally in some essential oils. It is a known allergen."
+    },
+    {
+      "name": "Hydroxycitronellal",
+      "risk_level": "Moderate",
+      "description": "A synthetic fragrance ingredient with a lily-of-the-valley scent. It is a common skin allergen."
+    },
+    {
+      "name": "Linalool",
+      "risk_level": "Moderate",
+      "description": "A naturally occurring fragrance compound found in many essential oils. Can cause allergic reactions when it oxidizes."
+    },
+    {
+      "name": "Linalyl Acetate",
+      "risk_level": "Moderate",
+      "description": "A synthetic fragrance compound, the main component of lavender and bergamot oils. Can be a skin sensitizer."
+    },
+    {
+      "name": "Tetramethyl Acetyloctahydronaphthalenes",
+      "risk_level": "High",
+      "description": "A synthetic musk fragrance ingredient (e.g., Iso E Super). There are concerns about skin sensitization, allergic reactions, and potential environmental persistence."
+    }
+  ]
+}
+
+    
